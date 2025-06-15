@@ -22,14 +22,14 @@ public class CriticalThinkingMod1Opt1Fritz {
     public static void main(String[] args) {
         String firstName = "John";
         String lastName = "Doe";
-        String streetAddress = "1234 Main Street";
-        String city = "Springfield";
+        String streetAddress = "123 John Doe Street";
+        String city = "Somecity";
         String zipCode = "12345";
 
-        System.out.println(firstName);
-        System.out.println(lastName);
-        System.out.println(streetAddress);
-        System.out.println(city);
-        System.out.println(zipCode);
+        System.out.println("First Name: " + firstName);
+        System.out.println("Last Name: " +  lastName);
+        System.out.println("Address: " +  streetAddress);
+        System.out.println("City: " +  city);
+        System.out.println("Zip Code: " +  zipCode);
     }
 }
