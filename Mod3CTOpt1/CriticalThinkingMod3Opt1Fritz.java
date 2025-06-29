@@ -2,7 +2,7 @@
 //  Author: Greg Fritz
 //  University: CSU Global
 //  Professor: Dr. Gonzalez
-//  Class: CSC320-2
+//  Class: Programming 1 CSC320-2
 //  Date: 29 June 2025
 // -------------------------------------------
 //  Pseudocode:
